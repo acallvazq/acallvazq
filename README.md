@@ -3,7 +3,7 @@ Hi, my name is Alba and I'm studying Telecommunications Engineering in the speci
 I'm passionate about everything related to computers, as well as animals, music, sports and traveling.
 
 ### Technologies
-- **Programming languages**: HTML&CSS, JavaScript, PHP, Visual Basic, Language C, Java, Language C#, TypeScript.
+- **Programming languages**: HTML&CSS, JavaScript, PHP, Visual Basic, Language C, C#, C++, Java, TypeScript.
 - **Deep Learning**: Matlab and Python.
 - **Data Storage**: Relational databases (*MySQL*) and non-relational (*MongoDB*).
 - **Backend**: REST APIs design (*Node.js + Express*) and Docker.
