@@ -1,5 +1,5 @@
 # About me
-Hi, my name is Alba and I'm studying Telecommunications Engineering in the specialties of Telematics and Sound and Image. 
+Hi, my name is Alba and I'm studying Telecommunications Engineering in the specialities of Telematics and Sound and Image. 
 I'm passionate about everything related to computers, as well as animals, music, sports and traveling.
 
 ### Technologies
