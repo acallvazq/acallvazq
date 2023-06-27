@@ -12,7 +12,8 @@ I'm passionate about everything related to computers, as well as animals, music,
 ### My projects in GitHub
 - [recomendacion-peliculas](https://github.com/acallvazq/Recomendacion-Peliculas): Servlet about films information made in Apache Tomcat.
 - [examples-javascript](https://github.com/acallvazq/Examples-JavaScript): Simples examples of Javascript used in HTML.
-- [Happy-Birthday](https://github.com/acallvazq/Happy-Birthday): Simple HTML page with a countdown to your birthday. 
+- [Happy-Birthday](https://github.com/acallvazq/Happy-Birthday): Simple HTML page with a countdown to your birthday.
+- [PCCD](https://github.com/acallvazq/PCCD): Practices of the subject PCCD (Concurrent and distributed programming).
 
 ### My collaborations in GitHub
 - [Arcade-GameStore](https://github.com/fernandodpr/AST-2122-GETT): RESTful Web Service with Node.js and MongoDB (MEAN Stack).
