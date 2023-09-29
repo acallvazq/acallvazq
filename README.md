@@ -24,8 +24,8 @@ I'm passionate about everything related to computers, as well as animals, music,
 - [SINF-2022](https://github.com/fernandodpr/SINF-2122-GETT): Database of a ticketing service with MySQL.
 
 <a href="https://github.com/acallvazq">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=acallvazq&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acallvazq&theme=buefy&layout=compact" />
 </a>
 
 ### Social Networks
