@@ -1,4 +1,7 @@
-<a href="https://app.daily.dev/albavazquez"><img src="https://api.daily.dev/devcards/98b076a11fe944178783d7eda61b396e.png?r=q8g" width="200" align="right" alt="Alba Vazquez's Dev Card"/></a>
+/*<a href="https://app.daily.dev/albavazquez"><img src="https://api.daily.dev/devcards/98b076a11fe944178783d7eda61b396e.png?r=q8g" width="200" align="right" alt="Alba Vazquez's Dev Card"/></a>*/
+
+<img src="https://i.pinimg.com/564x/72/ec/f5/72ecf54e39d1fa8eb10273ddffca9440.jpg" width="200" align="right" alt="Alba Vazquez's Dev Card"/>
+
 
 # About me
 Hi, my name is Alba and I'm studying Telecommunications Engineering in the specialities of Telematics and Sound and Image. 
