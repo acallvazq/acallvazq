@@ -1,9 +1,8 @@
 <!--<a href="https://app.daily.dev/albavazquez"><img src="https://api.daily.dev/devcards/98b076a11fe944178783d7eda61b396e.png?r=q8g" width="200" align="right" alt="Alba Vazquez's Dev Card"/></a>-->
 
+
+### About me
 <img src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" width="200" align="right" alt="Alba Vazquez's Dev Card"/>
-
-
-# About me
 Hi, my name is Alba and I'm studying Telecommunications Engineering in the specialities of Telematics and Sound and Image. 
 I'm passionate about everything related to computers, as well as animals, music, sports and traveling.
 
