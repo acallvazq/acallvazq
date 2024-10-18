@@ -32,4 +32,4 @@ I'm passionate about everything related to computers, as well as animals, music,
 </a>
 
 ### Social Networks
-If you want to know more about me, check out my [LinkedIn profile](https://es.linkedin.com/in/alba-calleja-v%C3%A1zquez-7a5862207).
+If you want to know more about me, check out my [LinkedIn profile]([https://www.linkedin.com/in/albacallejavazquez/]).
