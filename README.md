@@ -16,7 +16,6 @@ I'm passionate about everything related to computers, as well as animals, music,
 ### My projects in GitHub
 - [SEG-2425](https://github.com/acallvazq/SEG-2425): Client-server application that securely registers documents using the SSL/TLS protocol.
 - [recomendacion-peliculas](https://github.com/acallvazq/Recomendacion-Peliculas): Servlet about films information made in Apache Tomcat.
-- [examples-javascript](https://github.com/acallvazq/Examples-JavaScript): Simples examples of Javascript used in HTML.
 - [Happy-Birthday](https://github.com/acallvazq/Happy-Birthday): Simple HTML page with a countdown to your birthday.
 - [PCCD](https://github.com/acallvazq/PCCD): Practices of the subject PCCD (Concurrent and distributed programming).
 
